@@ -1,0 +1,58 @@
+.topbar{
+    background-color: purple;
+     
+    height: 30px;
+}
+.topbar-right{
+    float: right;
+}
+.topbar-right div{
+    display: inline-block;
+    float: right;
+    border-left: 1px solid white;
+    height: 50px;
+    padding: 5px;
+}
+.topbar-right p{
+    display: inline-block;
+    float: right;
+    padding: 5px;
+}
+/* header start */
+.logo{
+    height: 110px;
+}
+.logo-left{
+line-height: 110px;
+}
+.logo-search{
+    padding-top: 5px;
+}
+.logo-search input{
+    width: 70%;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: 14px;
+    padding: 7px;
+    font-weight: bold;
+}
+.logo1{
+    border: right 1px solid #ddd;
+    padding-right: 5px;
+    margin-right: 5px;
+}
+.logo-right{
+    padding-top: 30px;
+}
+/*header end */
+/* menubar start */
+.menu1{
+    background-color: #ddd;
+}
+.menu1 ul li a{
+    font-size: 14px !important;
+}
+.menu1 ul :hover{
+    background-color:palevioletred;
+}
+/* banner */
